@@ -1,0 +1,12 @@
+/* Jason Project */
+
+MAS entrega3 {
+
+    infrastructure: Centralised
+	environment: Tablero
+    agents:
+			player1 ./player1PruebasMasListo.asl;
+			player2 ./player1Pruebas.asl;
+			judge  ./judgePruebas.asl;
+}
+

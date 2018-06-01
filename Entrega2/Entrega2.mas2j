@@ -1,0 +1,19 @@
+/* Jason Project */
+
+
+
+MAS entrega2SegundoIntentoAhoraElBueno {
+
+
+
+    infrastructure: Centralised
+
+	environment:Entorno
+
+    agents:player1 ./player.asl;
+			player2 ./player.asl;
+			judge  ./judge.asl;
+
+}
+
+
